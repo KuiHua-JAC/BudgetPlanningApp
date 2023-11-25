@@ -18,6 +18,14 @@ Windows WPF app used to track expenses of a household. The goal of the app is to
 ### Calculating the total of expenses
 
 ## How to run
+Open the solution and click on run. Make sure to be on Windows, it hasn't been tested on Mac.
+An installer also exists, its working status isn't production ready yet. Might or might not work.
+
+## Technologies used
+SQLite, C#, WPF, MVC
+
+
+
 
 
 
